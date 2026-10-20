@@ -1,0 +1,10 @@
+# Private local review material and generated files
+backups/
+reviews/
+WTF/
+SavedVariables/
+*.SavedVariables.lua
+*.zip
+__pycache__/
+*.pyc
+*.bak
