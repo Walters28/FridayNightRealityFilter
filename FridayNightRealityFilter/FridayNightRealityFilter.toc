@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Friday Night Reality Filter
+## Notes: Local, conservative General/Trade chat filter
+## Version: 0.1.25-beta
+## SavedVariablesPerCharacter: FridayNightRealityFilterDB, FridayNightRealityFilterLog, FridayNightRealityFilterCapture
+
+FridayNightRealityFilter.lua
